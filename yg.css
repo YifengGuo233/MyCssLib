@@ -1,0 +1,10 @@
+.yg_div_card_300x400{
+  width: 300px;
+  height: 400px;
+}
+.yg_bg_lightgrey{
+  background-color:lightgrey;
+}
+.yg_div_box_shadow_5_5_grey{
+  box-shadow: 5px 5px 5px grey;
+}
