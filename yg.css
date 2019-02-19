@@ -8,3 +8,15 @@
 .yg_div_box_shadow_5_5_grey{
   box-shadow: 5px 5px 5px grey;
 }
+.yg_div_userlogin_box{
+position: relative;
+text-align:center;
+margin:auto;
+margin-top: 80px;
+width:400px;
+padding :20px;
+height: auto;
+border-width: 1px;
+border-style: solid;
+box-shadow:10px 10px 10px grey;
+}
