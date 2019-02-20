@@ -46,3 +46,45 @@ box-shadow:10px 10px 10px grey;
 .yg_bg_lightgreen{
 background-color: lightgreen;
 }
+
+/*submit form*/
+.yg_title_block{
+display:block;
+}
+.yg_post_block{
+display:block;
+}
+.yg_postform
+{
+  border-bottom:0px;
+position:relative;
+display:block;
+margin:auto;
+width:600px;
+text-align:center;
+box-shadow:5px 10px 15px 8px grey;
+}
+.yg_post_label{
+width: 100%;
+margin: 0;
+padding:0;
+background-color: lightgreen;
+}
+.yg_section_title{
+height:40px;
+width:100%;
+line-height:150px;
+margin:0;
+padding:0;
+border:0;
+font-size:20px;
+}
+.yg_section_post{
+height:200px;
+width:100%;
+text-align: left;
+font-size:20px;
+padding:0;
+border:0;
+resize:none;
+}
