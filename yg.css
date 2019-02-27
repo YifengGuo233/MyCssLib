@@ -31,7 +31,7 @@ box-shadow:10px 10px 10px grey;
 .yg_bt_blue{
   width:100px !important;
   height:40px !important;
-  border-color: inherit !important;
+  border-color: #46BDC4 !important;
   background-color: #46BDC4 !important;
 }
 .yg_bt_hover_shadow:hover{
