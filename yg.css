@@ -29,10 +29,10 @@ box-shadow:10px 10px 10px grey;
   background-color:lightgrey;
 }
 .yg_bt_blue{
-  width:100px;
-  height:40px;
-  border-color: inherit;
-  background-color: #46BDC4;
+  width:100px !important;
+  height:40px !important;
+  border-color: inherit !important;
+  background-color: #46BDC4 !important;
 }
 .yg_bt_hover_shadow:hover{
   box-shadow: 0 12px 12px 0 grey;
